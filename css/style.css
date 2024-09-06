@@ -1,0 +1,289 @@
+nav {
+  overflow: hidden;
+  background-color: white;
+  position: fixed;
+  top: 0;
+  width: 100%;
+}
+
+.bars {
+    height: 31px;
+    width: 39px;
+    margin-top: 16px;
+    margin-left: 13px;
+}
+
+.magnifying-glass {
+   height: 34px;
+   width: 55px;
+   margin-top: 14px;
+   margin-right: 480px;
+}
+
+.bbc {
+    height: 29px;
+    margin-top: 20px;
+}
+
+.register {
+    background-color: black;
+    border: 0px solid black;
+    margin-left: 50px;
+    color: white;
+    font-weight: bold;
+    position: absolute;
+    top: 20px;
+    left: 1046px;
+    bottom: 631px;
+    padding-left: 10px;
+    padding-right: 10px;
+    margin-right: 0px;
+    height: 30px;
+}
+
+.register:hover {
+    background-color: gray;
+    color: white;
+    cursor: pointer;
+  }
+
+.sign {
+    background-color: white;
+    border: 0px solid white;
+    top: 20px;
+    left: 1210px;
+    position: absolute;
+    font-weight: bold;
+    padding-left: 5px;
+    padding-bottom: 5px;
+    padding-right: 5px;
+}
+
+.sign:hover {
+    background-color: gray;
+    color: white;
+    cursor: pointer;
+  }
+
+.navbar {
+    width: 1900px;
+    margin-left: 5px;
+    background-color: white;
+}
+
+.na {
+    margin-right: inherit;    
+    background-color: white;
+    border: 1px solid white;
+    font-size: small;
+    position: absolute;
+    left: 345px;
+    font-weight: bolder;
+}
+
+.nb {
+    margin-right: inherit;    
+    background-color: white;
+    border: 1px solid white;
+    font-size: small;
+    position: absolute;
+    left: 400px;
+    font-weight: bolder;
+}
+
+.nc{
+    margin-right: inherit;    
+    background-color: white;
+    border: 1px solid white;
+    font-size: small;
+    position: absolute;
+    left: 452px;
+    font-weight: bolder;
+}
+
+.nd{
+    margin-right: inherit;    
+    background-color: white;
+    border: 1px solid white;
+    font-size: small;
+    position: absolute;
+    left: 510px;
+    font-weight: bolder;
+}
+.ne{
+    margin-right: inherit;    
+    background-color: white;
+    border: 1px solid white;
+    font-size: small;
+    position: absolute;
+    left: 580px;
+    font-weight: bolder;
+}
+.nf{
+    margin-right: inherit;    
+    background-color: white;
+    border: 1px solid white;
+    font-size: small;
+    position: absolute;
+    left: 664px;
+    font-weight: bolder;
+}
+.ng{
+    margin-right: inherit;    
+    background-color: white;
+    border: 1px solid white;
+    font-size: small;
+    position: absolute;
+    left: 730px;
+    font-weight: bolder;
+}
+.nh{
+    margin-right: inherit;    
+    background-color: white;
+    border: 1px solid white;
+    font-size: small;
+    position: absolute;
+    left: 790px;
+    font-weight: bolder;
+}
+.ni{
+    margin-right: inherit;    
+    background-color: white;
+    border: 1px solid white;
+    font-size: small;
+    position: absolute;
+    left: 840px;
+    font-weight: bolder;
+}
+.nj{
+    margin-right: inherit;    
+    background-color: white;
+    border: 1px solid white;
+    font-size: small;
+    position: absolute;
+    left: 894px;
+    font-weight: bolder;
+}
+
+.first {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+}
+
+.first1 {
+    
+    width: 325px;
+}
+
+.first1 img {
+    height: 148px;
+    width: 302px;
+    margin-left: 20px;
+}
+
+.first1 h5 {
+    margin-left: 20px;
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+.first1 h5:hover {
+    text-decoration: underline;
+}
+
+.first1 p {
+    margin-left: 20px;
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.first1 .p {
+    color: grey;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: smaller;
+}
+
+.hr {
+    margin-left: 20px;
+}
+
+.first2 {
+    width: 600px;
+    margin-right: 5px;
+}
+
+.first2 img {
+    width: 598px;
+}
+
+.first2 p {
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.first2 h2 {
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+.first2 h2:hover {
+    text-decoration: underline;
+}
+
+.first2 .p {
+    color: grey;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: smaller;
+}
+
+.first3 h5 {
+    font-family: 'Times New Roman', Times, serif;
+    font-weight: bold;
+    cursor: pointer;
+}
+
+.first3 h5:hover {
+    text-decoration: underline;
+}
+
+.first3 p {
+    font-family: 'Times New Roman', Times, serif;
+}
+
+.first3 .p {
+    color: grey;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: smaller;
+}
+
+.img {
+    height: 20px;
+    width: 20px;
+}
+
+.h {
+    border: 1px solid black;
+    opacity: 1;
+    margin-left: 20px;
+    margin-right: 20px;
+}
+
+.h5 {
+    margin-left: 10px;
+    font-weight: bold;
+}
+
+.second {
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+    margin-left: 10px;
+}
+
+.second1 img {
+    width: 620px;
+    margin-right: 10px;
+}
+
+.second2 img {
+    width: 620px;
+}
